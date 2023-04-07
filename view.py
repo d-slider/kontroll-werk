@@ -67,6 +67,5 @@ class View(object):
         print('Все заметки удалены!')
         print('--------------------------------------------------------------' + Style.RESET_ALL)
 
-
 def display_note_id_not_exist(search_id):
     return search_id

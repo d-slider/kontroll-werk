@@ -3,7 +3,6 @@ import json
 import view
 from note import Note
 
-
 # noinspection PyBroadException
 class ModelJSON(object):
 

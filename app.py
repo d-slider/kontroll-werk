@@ -6,7 +6,6 @@ from modelJSON import ModelJSON
 from note import Note
 from view import View
 
-
 def run():
     c = Controller(ModelJSON("notes.json"), View())
 
