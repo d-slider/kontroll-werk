@@ -1,6 +1,5 @@
 from colorama import Fore, Style
 
-
 class View(object):
 
     @staticmethod
